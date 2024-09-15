@@ -1,0 +1,20 @@
+.odd-p{
+    background-color: pink;
+    font-family: "Verdana" "DejaVu Sans" sans-serif;
+}
+
+#div-2 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#div-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
